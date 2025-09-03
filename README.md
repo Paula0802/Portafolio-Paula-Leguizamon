@@ -4,5 +4,5 @@ En este portafolio encontraran los proyectos que he realizado junto con mi conta
 ## Instalación
 
 ```bash
-git clone https://github.com/Paula0802/portafolio.git
+git clone https://github.com/Paula0802/Portafolio-Paula-Leguizamon.git
 cd PORTAFOLIO
